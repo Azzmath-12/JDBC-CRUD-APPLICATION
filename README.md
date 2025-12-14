@@ -26,5 +26,3 @@ This project is built for learning and practicing core JDBC concepts such as `Co
 - VS Code / Eclipse / STS
 
 ---
-
-## 🗂 Project Structure
